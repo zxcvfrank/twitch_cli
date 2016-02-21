@@ -1,0 +1,10 @@
+egg.cached
+*.egg
+*.egg-info
+*.tar.gz
+*.pyc
+*.log
+
+/build
+/dist
+/.idea
